@@ -21,4 +21,4 @@ Meu Repositorio pessoal
 
 ### GitHub Status
 
-![ardsg GitHub stats](https://github-readme-stats.vercel.app/api?username=ardsg&show_icons=true&theme=radical)
+![ardsg GitHub stats](https://github-readme-stats.vercel.app/api?username=ardsggikai&show_icons=true&theme=radical)
